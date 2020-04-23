@@ -1,6 +1,4 @@
-# Lightning Talks II
-
-## Overview
+# Overview
 
 ##### Many of us intersting in image processing fieald so lets dig deep into image processing 
 
